@@ -44,9 +44,6 @@ int main (){
 	//INGRESO TEXTO AL ARCHIVO
 	 archivo << "equipo_1";
 	 archivo << "equipo completo";
-	 
 	 archivo.close();
-	 
-	
 	return 0;
 }
